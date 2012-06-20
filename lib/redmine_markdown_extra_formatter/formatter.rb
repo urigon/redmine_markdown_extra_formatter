@@ -92,7 +92,7 @@ module BlueFeather
 end
 
 module RedmineMarkdownExtraFormatter
-  class WikiFormatter
+  class Formatter
     include ActionView::Helpers::TagHelper
 
     def initialize(text)
