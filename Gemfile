@@ -1,2 +1,2 @@
-gem 'bluefeather', '0.40'
+gem 'kramdown'
 
